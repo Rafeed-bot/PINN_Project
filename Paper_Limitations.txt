@@ -1,0 +1,5 @@
+(1) loss function weights
+(2) activation function choice
+(3) which loss function more appropriate
+(4) how to sample collocation points
+(5) high order derivative PDEs can be time consuming to solve
